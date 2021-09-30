@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\Geometry2D\bin\Debug\net5.0\Geometry2D.exe
+C:\Users\danie\source\repos\Geometry2D\bin\Debug\net5.0\Geometry2D.deps.json
+C:\Users\danie\source\repos\Geometry2D\bin\Debug\net5.0\Geometry2D.runtimeconfig.json
+C:\Users\danie\source\repos\Geometry2D\bin\Debug\net5.0\Geometry2D.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Geometry2D\bin\Debug\net5.0\Geometry2D.dll
+C:\Users\danie\source\repos\Geometry2D\bin\Debug\net5.0\ref\Geometry2D.dll
+C:\Users\danie\source\repos\Geometry2D\bin\Debug\net5.0\Geometry2D.pdb
+C:\Users\danie\source\repos\Geometry2D\obj\Debug\net5.0\Geometry2D.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Geometry2D\obj\Debug\net5.0\Geometry2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Geometry2D\obj\Debug\net5.0\Geometry2D.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Geometry2D\obj\Debug\net5.0\Geometry2D.AssemblyInfo.cs
+C:\Users\danie\source\repos\Geometry2D\obj\Debug\net5.0\Geometry2D.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Geometry2D\obj\Debug\net5.0\Geometry2D.dll
+C:\Users\danie\source\repos\Geometry2D\obj\Debug\net5.0\ref\Geometry2D.dll
+C:\Users\danie\source\repos\Geometry2D\obj\Debug\net5.0\Geometry2D.pdb
+C:\Users\danie\source\repos\Geometry2D\obj\Debug\net5.0\Geometry2D.genruntimeconfig.cache
